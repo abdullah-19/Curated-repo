@@ -8,14 +8,30 @@
  - https://github.com/abdullah-19/AudioMirror
  - https://github.com/abdullah-19/Virtual-Audio-Pipeline
  - https://github.com/abdullah-19/virtual-audio-wire
+ 
  ## Loopback
   - https://github.com/abdullah-19/wasapi_capture
   - https://github.com/abdullah-19/mylinphone-android
  
  
+# Crawler / Downloader:
+- https://github.com/abdullah-19/crawlpp
+- https://github.com/abdullah-19/downloader
+- https://github.com/abdullah-19/custom-crawler
+- https://github.com/abdullah-19/downloader-windows
+- https://github.com/abdullah-19/downloader
+- https://github.com/abdullah-19/com-crawler
+
+# Compiler :
+- https://github.com/abdullah-19/intercode-generator
+- https://github.com/abdullah-19/compiler-compiler
+ 
+# Computer Graphics
+ - https://github.com/abdullah-19/cse3204
+ 
 # Computer Vision :
  - https://github.com/abdullah-19/eyeloop
-
+ 
 
 # OS :
  - https://github.com/abdullah-19/Aura-Operating-System
@@ -28,6 +44,8 @@
  - https://github.com/abdullah-19/TwilightOS
  - https://github.com/abdullah-19/toaruos
  - https://github.com/abdullah-19/gramado
+ - https://github.com/abdullah-19/512b-OS
+ - https://github.com/abdullah-19/qword
 
 # Win32
  ## Game
