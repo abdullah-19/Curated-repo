@@ -46,6 +46,11 @@
  - https://github.com/abdullah-19/gramado
  - https://github.com/abdullah-19/512b-OS
  - https://github.com/abdullah-19/qword
+ 
+# OSM :
+ - https://github.com/abdullah-19/parallelpbf
+ - https://github.com/abdullah-19/osm-proto-parser
+ - https://github.com/abdullah-19/OSM-binary
 
 # Win32
  ## Game
