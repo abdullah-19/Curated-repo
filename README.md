@@ -33,6 +33,7 @@
  - https://github.com/abdullah-19/eyeloop
  - https://github.com/tilodeus/FloodDetection
  - https://github.com/vinotharjun/OilSpillDetection
+ - https://github.com/Garfounkel/cloud-satelite-detection
  
 
 # OS :
