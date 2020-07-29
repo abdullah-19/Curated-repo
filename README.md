@@ -34,6 +34,9 @@
  - https://github.com/tilodeus/FloodDetection
  - https://github.com/vinotharjun/OilSpillDetection
  - https://github.com/Garfounkel/cloud-satelite-detection
+ - https://github.com/abdullah-19/Object-Detection-Satelite-Images
+ - https://github.com/abdullah-19/satelite_image_detection
+ - https://github.com/abdullah-19/airbus-ship-detection-using-keras-retinanet-maskrcnn
  
 
 # OS :
