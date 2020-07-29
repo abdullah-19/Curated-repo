@@ -31,6 +31,8 @@
  
 # Computer Vision :
  - https://github.com/abdullah-19/eyeloop
+ - https://github.com/tilodeus/FloodDetection
+ - https://github.com/vinotharjun/OilSpillDetection
  
 
 # OS :
