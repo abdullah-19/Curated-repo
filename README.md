@@ -50,7 +50,7 @@
  - https://github.com/abdullah-19/fatel-brain-anomaly-capturing
  
 # Natural Language Processing :
- - https://github.com/Garfounkel/emotion_analysis
+ - https://github.com/abdullah-19/emotion_analysis
  - https://github.com/abdullah-19/sentimentAnalysis
 
 # OS :
