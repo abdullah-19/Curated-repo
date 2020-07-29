@@ -13,6 +13,8 @@
   - https://github.com/abdullah-19/wasapi_capture
   - https://github.com/abdullah-19/mylinphone-android
  
+# Chatbot 
+ - https://github.com/abdullah-19/chatbot-rnn
  
 # Crawler / Downloader:
 - https://github.com/abdullah-19/crawlpp
@@ -37,7 +39,19 @@
  - https://github.com/abdullah-19/Object-Detection-Satelite-Images
  - https://github.com/abdullah-19/satelite_image_detection
  - https://github.com/abdullah-19/airbus-ship-detection-using-keras-retinanet-maskrcnn
+ - https://github.com/abdullah-19/FaceGrouping
  
+
+# Machine learning :
+ - https://github.com/abdullah-19/Student_Intervention
+ - https://github.com/abdullah-19/smart_cab
+ - https://github.com/abdullah-19/Political_labeling
+ - https://github.com/abdullah-19/AirplaneLandings
+ - https://github.com/abdullah-19/fatel-brain-anomaly-capturing
+ 
+# Natural Language Processing :
+ - https://github.com/Garfounkel/emotion_analysis
+ - https://github.com/abdullah-19/sentimentAnalysis
 
 # OS :
  - https://github.com/abdullah-19/Aura-Operating-System
@@ -57,7 +71,14 @@
  - https://github.com/abdullah-19/parallelpbf
  - https://github.com/abdullah-19/osm-proto-parser
  - https://github.com/abdullah-19/OSM-binary
+ 
+ 
+# Style Transfer :
+ - https://github.com/abdullah-19/neuralStyleTransfer
 
 # Win32
  ## Game
   - https://github.com/abdullah-19/pong_c_2014
+
+@UNLABELD@
+- https://github.com/abdullah-19/disaster_response_pipeline
