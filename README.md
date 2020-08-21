@@ -45,6 +45,10 @@
  - https://github.com/abdullah-19/airbus-ship-detection-using-keras-retinanet-maskrcnn
  - https://github.com/abdullah-19/FaceGrouping
  
+# Cheat Sheet : 
+ # ACM
+  - https://github.com/abdullah-19/cheat-sheet
+ 
 
 # Machine learning :
  - https://github.com/abdullah-19/Student_Intervention
@@ -83,6 +87,7 @@
 # Win32
  ## Game
   - https://github.com/abdullah-19/pong_c_2014
+
 
 @UNLABELD@
 - https://github.com/abdullah-19/disaster_response_pipeline
